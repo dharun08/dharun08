@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dharun08
-- 👀 I’m interested in tech products teardowns
+- 👀 I’m interested in tech products
 - 🌱 I’m currently learning Product Management skills
-- 💞️ I’m looking to collaborate with different tech PMs, APMs & product role folks
+- 💞️ I’m doing some side projects
 
 <!---
 dharun08/dharun08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
